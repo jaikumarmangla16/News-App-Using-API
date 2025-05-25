@@ -22,7 +22,7 @@ pip install requests
 1. Replace `your_Api_key_here` in the code with your actual NewsAPI key. You can get one by registering at [newsapi.org](https://newsapi.org/).
 2. Run the script:
 ```bash
-python main.py
+main.py
 ```
 3. Enter a search query when prompted.
 4. The script will print and save the latest articles.
